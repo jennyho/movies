@@ -10,7 +10,6 @@
     <link href="https://fonts.googleapis.com/css?family=Abel|Limelight" rel="stylesheet">
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script language="javascript" type="text/javascript" src="javascript.js"></script>
 
 </head>
 <body>
@@ -31,6 +30,100 @@
             <span><a href="documentation.html">Documentation</a></span>
         </div>
     </div> 
+    
+    <script language="javascript" type="text/javascript">
+        $(document).ready(animateText);
+
+        function animateText() {
+            $(".source").text("Book");
+
+            setTimeout(function() {
+                $(".source").text("");
+                $(".source").text("Short Story");
+            }, 1000);
+
+            setTimeout(function() {
+                $(".source").text("");
+                $(".source").text("Comic");
+            }, 2000);
+
+            setTimeout(function() {
+                $(".source").text("");
+                $(".source").text("Graphic Novel");
+            }, 3000);
+
+            setTimeout(function() {
+                $(".source").text("");
+                $(".source").text("Game");
+            }, 4000);
+
+            setTimeout(function() {
+                $(".source").text("");
+                $(".source").text("Magazine Article");
+            }, 5000);
+
+            setTimeout(function() {
+                $(".source").text("");
+                $(".source").text("Musical");
+            }, 6000);
+
+            setTimeout(function() {
+                $(".source").text("");
+                $(".source").text("Opera");
+            }, 7000);
+
+            setTimeout(function() {
+                $(".source").text("");
+                $(".source").text("Play");
+            }, 8000);
+
+            setTimeout(function() {
+                $(".source").text("");
+                $(".source").text("True Story");
+            }, 9000);
+
+            setTimeout(function() {
+                $(".source").text("");
+                $(".source").text("Short Film");
+            }, 10000);
+
+            setTimeout(function() {
+                $(".source").text("");
+                $(".source").text("Toy Franchise");
+            }, 11000);
+
+            setTimeout(function() {
+                $(".source").text("");
+                $(".source").text("Television Show");
+            }, 12000);
+
+            setTimeout(function() {
+                $(".source").text("");
+                $(".source").text("Disney Ride");
+            }, 13000);
+
+            setTimeout(function() {
+                $(".source").text("");
+                $(".source").text("Original Film");
+            }, 14000);
+
+            setTimeout(function() {
+                $(".source").text("");
+                $(".source").text("Legend");
+            }, 15000);
+
+            setTimeout(function() {
+                $(".source").text("");
+                $(".source").text("FairyTale");
+            }, 16000);
+
+            setTimeout(function() {
+                $(".source").text("");
+            }, 17000);
+
+            setTimeout(animateText, 17000);
+        }
+    </script>
     
     <div class="min">
         <h1 class="message"> Please view fullscreen on desktops. </h1>
