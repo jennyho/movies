@@ -1,0 +1,240 @@
+body {
+    font-size: 14px;
+    line-height: 1.5em;
+    background: #62CAA7;
+    color: #3B3B3B;
+}
+
+.min {
+    display: none;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+
+.background {
+    max-width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(0, 0);
+}
+
+#header {
+    position: absolute;
+    top: 39%;
+    left: 45%;
+}
+
+h1 {
+    font-family: 'Limelight', cursive;
+    font-size: 1.5em;
+    line-height: 1.2em;
+}
+
+.source {
+    position: absolute;
+    font-family: 'Limelight', cursive;
+    font-size: 2.5em;
+    margin-top: -.25em;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: "Abel", sans-serif;
+    font-size: 1.5em;
+    line-height: 1.2em;
+    transform: translate(40%, 50%)
+}
+
+#header h2 {
+    width: 60%;
+}
+
+h3 {
+    font-family: 'Limelight', cursive;
+    font-size: 1.2em;
+    line-height: 1em;
+}
+
+p {
+    font-family: 'Abel', sans-serif;
+    font-size: 1em;
+    line-height: 1.2em;
+}
+
+.nav {
+    font-family: "Limelight", sans-serif;
+    font-size: 1em;
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, 0);
+    max-width: none;
+    white-space: nowrap; 
+}
+
+.nav span {
+    margin: 0 1em 0 1em;
+}
+
+.nav a, .nav a:visited  {
+    text-decoration: none;
+    color: #3B3B3B;
+}
+
+.nav #current {
+    color: #9B9B9B;  
+}
+
+.list {
+    position: absolute;
+    top: 18%;
+    left: 47%;
+    font-family: "Abel", sans-serif;
+    font-size: .8em;
+    line-height: 1.2em;
+    width: 15%;
+}
+
+.list a   {
+    text-decoration: none;
+}
+
+.list ul {
+    list-style-type: none;
+    position: absolute;
+}
+
+.list .c2 {
+    transform: translate(110%, 0)
+}
+
+.list .c3 {
+    transform: translate(190%, 0)
+}
+
+.graph {
+    position: absolute;
+    top: 33%;
+    left: 50%;
+    transform: translate(-50%, 0);
+    height: 46%;
+}
+
+.column1, .column2 {
+    position: absolute;
+    top: 18%;
+    width: 28%;
+}
+
+.column1 {
+    left: 19%;
+}
+
+.column1 a {
+    text-decoration: none;
+    color: #3B3B3B;
+}
+
+.column2 {
+    left: 52%;
+}
+
+.all {
+     color: #3B3B3B;
+}
+
+.book {
+    color: #EA6489;
+}
+
+.comic {
+    color: #B9408C;
+}
+
+.fact {
+    color: #4C0071;
+}
+
+.game {
+    color: #240F48;
+}
+
+.mag {
+    color: #1E2A81;
+}
+
+.music {
+    color: #388FBF;
+}
+
+.play {
+    color: #92E4ED;
+}
+
+.real {
+    color: #15AA8D;
+}
+
+.short {
+    color: #00673D;
+}
+
+.toy {
+    color: #46C65B;
+}
+
+.tv {
+     color: #7FC227;   
+}
+
+.comp {
+    color: #E5CA00;
+}
+
+.disney {
+    color: #FAC002;
+}
+
+.original {
+    color: #EC8937;
+}
+
+.remake {
+    color: #E45C22;
+}
+
+.spinoff {
+    color: #BF1B28;
+}
+
+.legend {
+    color: #80000B;
+}
+
+.data {
+    opacity: .6;
+}
+
+@media screen and (max-width: 1030px) {
+    .container {
+        display: none;
+    }
+    
+    .min {
+        display: block;
+    }
+    
+    .message {
+        position: absolute;
+        top: 48%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+    }
+}

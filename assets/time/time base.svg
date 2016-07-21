@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1082.207px" height="480px" viewBox="0 0 1082.207 480" enable-background="new 0 0 1082.207 480" xml:space="preserve">
+<g id="base">
+	<g>
+		<circle opacity="0.15" fill="#3B3B3B" cx="190.393" cy="403.309" r="28.209"/>
+		<path opacity="0.15" fill="#3B3B3B" d="M275.34,403.309c0-11.017-8.93-19.945-19.945-19.945c-11.02,0-19.949,8.929-19.949,19.945
+			s8.93,19.945,19.949,19.945C266.41,423.254,275.34,414.325,275.34,403.309z"/>
+		<circle opacity="0.15" fill="#3B3B3B" cx="304.498" cy="403.309" r="14.105"/>
+		<text transform="matrix(1 0 0 1 174.8516 452.6602)" font-family="'Abel-Regular'" font-size="14">100%</text>
+		<text transform="matrix(1 0 0 1 243.4707 452.6602)" font-family="'Abel-Regular'" font-size="14">50%</text>
+		<text transform="matrix(1 0 0 1 292.7168 452.6602)" font-family="'Abel-Regular'" font-size="14">25%</text>
+		<text transform="matrix(1 0 0 1 175.6816 364)" font-family="'Abel-Regular'" font-size="14">Scale</text>
+	</g>
+	<g>
+		<g>
+			<line fill="#FFFFFF" x1="16.499" y1="0" x2="16.499" y2="480"/>
+			<g>
+				<line fill="none" stroke="#231F20" stroke-width="2" stroke-miterlimit="10" x1="16.499" y1="7.176" x2="16.499" y2="472.824"/>
+				<g>
+					<polygon fill="#231F20" points="11.541,8.635 16.526,0 21.513,8.635 					"/>
+				</g>
+				<g>
+					<polygon fill="#231F20" points="11.541,471.365 16.526,480 21.513,471.365 					"/>
+				</g>
+			</g>
+		</g>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="120" x2="32.998" y2="120"/>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="240" x2="32.998" y2="240"/>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="0" y1="360" x2="32.998" y2="360"/>
+		<text transform="matrix(1 0 0 1 39.9199 122.9453)" font-family="'Abel-Regular'" font-size="14">8 / 10</text>
+		<text transform="matrix(1 0 0 1 39.9199 245)" font-family="'Abel-Regular'" font-size="14">6 / 10</text>
+		<text transform="matrix(1 0 0 1 39.9199 364)" font-family="'Abel-Regular'" font-size="14">4 / 10</text>
+		<text transform="matrix(1 0 0 1 39.9199 25.1758)" font-family="'Abel-Regular'" font-size="14">IMDb Rating</text>
+	</g>
+	<g>
+		
+			<line fill="#FFFFFF" stroke="#231F20" stroke-width="2" stroke-miterlimit="10" x1="0.422" y1="222.613" x2="1082.207" y2="222.613"/>
+		<text transform="matrix(1 0 0 1 39.9199 216.2031)" font-family="'Abel-Regular'" font-size="14.9587">Average = 6.3</text>
+	</g>
+</g>
+<g id="time1">
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 152.0815 245)" font-family="'Abel-Regular'" font-size="14">1935</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 210.8203 245)" font-family="'Abel-Regular'" font-size="14">1940</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 269.4863 245)" font-family="'Abel-Regular'" font-size="14">1945</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 328.082 245)" font-family="'Abel-Regular'" font-size="14">1950</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 386.7485 245)" font-family="'Abel-Regular'" font-size="14">1955</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 445.4155 245)" font-family="'Abel-Regular'" font-size="14">1960</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 504.082 245)" font-family="'Abel-Regular'" font-size="14">1965</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 562.749 245)" font-family="'Abel-Regular'" font-size="14">1970</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 621.416 245)" font-family="'Abel-Regular'" font-size="14">1975</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 680.082 245)" font-family="'Abel-Regular'" font-size="14">1980</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 738.749 245)" font-family="'Abel-Regular'" font-size="14">1985</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 797.416 245)" font-family="'Abel-Regular'" font-size="14">1990</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 856.082 245)" font-family="'Abel-Regular'" font-size="14">1995</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 914.9102 245)" font-family="'Abel-Regular'" font-size="14">2000</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 973.5762 245)" font-family="'Abel-Regular'" font-size="14">2005</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1032.2227 245)" font-family="'Abel-Regular'" font-size="14">2010</text>
+		</g>
+	</g>
+	<g>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="166.499" y1="215.5" x2="166.499" y2="230.5"/>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="225.165" y1="215.5" x2="225.165" y2="230.5"/>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="283.833" y1="215.5" x2="283.833" y2="230.5"/>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="342.499" y1="215.5" x2="342.499" y2="230.5"/>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="401.166" y1="215.5" x2="401.166" y2="230.5"/>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="459.833" y1="215.5" x2="459.833" y2="230.5"/>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="518.499" y1="215.5" x2="518.499" y2="230.5"/>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="635.833" y1="215.5" x2="635.833" y2="230.5"/>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="577.166" y1="215.5" x2="577.166" y2="230.5"/>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="753.167" y1="215.5" x2="753.167" y2="230.5"/>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="694.499" y1="215.5" x2="694.499" y2="230.5"/>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="870.5" y1="215.5" x2="870.5" y2="230.5"/>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="811.833" y1="215.5" x2="811.833" y2="230.5"/>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="987.833" y1="215.5" x2="987.833" y2="230.5"/>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="929.167" y1="215.5" x2="929.167" y2="230.5"/>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="1046.5" y1="215.5" x2="1046.5" y2="230.5"/>
+	</g>
+	<g>
+		
+			<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="195.833" y1="105.644" x2="195.833" y2="222.644"/>
+		
+			<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="254.499" y1="126.144" x2="254.499" y2="215.5"/>
+		
+			<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="313.167" y1="107.881" x2="313.167" y2="110.354"/>
+		
+			<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="371.833" y1="114.144" x2="371.833" y2="294.145"/>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="430.5" y1="69.144" x2="430.5" y2="156.246"/>
+		
+			<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="489.167" y1="126.144" x2="489.167" y2="196.197"/>
+		
+			<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="547.833" y1="120.144" x2="547.833" y2="258.145"/>
+		
+			<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="665.167" y1="180.144" x2="665.167" y2="306.145"/>
+		<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="606.5" y1="138.144" x2="606.5" y2="176.434"/>
+		
+			<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="782.501" y1="150.144" x2="782.501" y2="298.145"/>
+		
+			<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="723.833" y1="96.144" x2="723.833" y2="266.145"/>
+		
+			<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="899.834" y1="132.144" x2="899.834" y2="354.145"/>
+		
+			<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="841.167" y1="152.144" x2="841.167" y2="387.145"/>
+		
+			<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="1017.167" y1="166.644" x2="1017.167" y2="315.572"/>
+		
+			<line fill="none" stroke="#231F20" stroke-width="0.5" stroke-miterlimit="10" x1="958.501" y1="159.492" x2="958.501" y2="295.799"/>
+	</g>
+</g>
+</svg>
