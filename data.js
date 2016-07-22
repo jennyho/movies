@@ -95,91 +95,161 @@ function animateText() {
 
 function selectData() {
     $(".all").click(function(){
-        $(".data").css("opacity", ".6");
+        $(".data").animate({
+            opacity: .6
+        }, 500);
     });
     
     $(".book").click(function(){
-        $(".data").css("opacity", ".15");
-        $(".d1").css("opacity", "1");
+        $(".d2, .d3, .d4, .d5, .d6, .d7, .d8, .d9, .d10, .d11, .d12, .d13, .d14, .d15, .d16, .d17").animate({
+            opacity: .15
+        }, 500);
+        $(".d1").animate({
+            opacity: 1
+        }, 500);
     });
     
     $(".comic").click(function(){
-        $(".data").css("opacity", ".15");
-        $(".d2").css("opacity", "1");
+        $(".d1, .d3, .d4, .d5, .d6, .d7, .d8, .d9, .d10, .d11, .d12, .d13, .d14, .d15, .d16, .d17").animate({
+            opacity: .15
+        }, 500);
+        $(".d2").animate({
+            opacity: 1
+        }, 500);
     });
     
     $(".fact").click(function(){
-        $(".data").css("opacity", ".15");
-        $(".d3").css("opacity", "1");
+        $(".d1, .d2, .d4, .d5, .d6, .d7, .d8, .d9, .d10, .d11, .d12, .d13, .d14, .d15, .d16, .d17").animate({
+            opacity: .15
+        }, 500);
+        $(".d3").animate({
+            opacity: 1
+        }, 500);
     });
     
     $(".game").click(function(){
-        $(".data").css("opacity", ".15");
-        $(".d4").css("opacity", "1");
+        $(".d1, .d2, .d3, .d5, .d6, .d7, .d8, .d9, .d10, .d11, .d12, .d13, .d14, .d15, .d16, .d17").animate({
+            opacity: .15
+        }, 500);
+        $(".d4").animate({
+            opacity: 1
+        }, 500);
     });
     
     $(".mag").click(function(){
-        $(".data").css("opacity", ".15");
-        $(".d5").css("opacity", "1");
+        $(".d1, .d2, .d3, .d4, .d6, .d7, .d8, .d9, .d10, .d11, .d12, .d13, .d14, .d15, .d16, .d17").animate({
+            opacity: .15
+        }, 500);
+        $(".d5").animate({
+            opacity: 1
+        }, 500);
     });
     
     $(".music").click(function(){
-        $(".data").css("opacity", ".15");
-        $(".d6").css("opacity", "1");
+        $(".d1, .d2, .d3, .d4, .d5, .d7, .d8, .d9, .d10, .d11, .d12, .d13, .d14, .d15, .d16, .d17").animate({
+            opacity: .15
+        }, 500);
+        $(".d6").animate({
+            opacity: 1
+        }, 500);
     });
     
     $(".play").click(function(){
-        $(".data").css("opacity", ".15");
-        $(".d7").css("opacity", "1");
+        $(".d1, .d2, .d3, .d4, .d5, .d6, .d8, .d9, .d10, .d11, .d12, .d13, .d14, .d15, .d16, .d17").animate({
+            opacity: .15
+        }, 500);
+        $(".d7").animate({
+            opacity: 1
+        }, 500);
     });
     
     $(".real").click(function(){
-        $(".data").css("opacity", ".15");
-        $(".d8").css("opacity", "1");
+        $(".d1, .d2, .d3, .d4, .d5, .d6, .d7, .d9, .d10, .d11, .d12, .d13, .d14, .d15, .d16, .d17").animate({
+            opacity: .15
+        }, 500);
+        $(".d8").animate({
+            opacity: 1
+        }, 500);
     });
     
     $(".short").click(function(){
-        $(".data").css("opacity", ".15");
-        $(".d9").css("opacity", "1");
+        $(".d1, .d2, .d3, .d4, .d5, .d6, .d7, .d8, .d10, .d11, .d12, .d13, .d14, .d15, .d16, .d17").animate({
+            opacity: .15
+        }, 500);
+        $(".d9").animate({
+            opacity: 1
+        }, 500);
     });
     
     $(".toy").click(function(){
-        $(".data").css("opacity", ".15");
-        $(".d10").css("opacity", "1");
+        $(".d1, .d2, .d3, .d4, .d5, .d6, .d7, .d8, .d9, .d11, .d12, .d13, .d14, .d15, .d16, .d17").animate({
+            opacity: .15
+        }, 500);
+        $(".d10").animate({
+            opacity: 1
+        }, 500);
     });
     
     $(".tv").click(function(){
-        $(".data").css("opacity", ".15");
-        $(".d11").css("opacity", "1");
+        $(".d1, .d2, .d3, .d4, .d5, .d6, .d7, .d8, .d9, .d10, .d12, .d13, .d14, .d15, .d16, .d17").animate({
+            opacity: .15
+        }, 500);
+        $(".d11").animate({
+            opacity: 1
+        }, 500);
     });
     
     $(".comp").click(function(){
-        $(".data").css("opacity", ".15");
-        $(".d12").css("opacity", "1");
+        $(".d1, .d2, .d3, .d4, .d5, .d6, .d7, .d8, .d9, .d10, .d11, .d13, .d14, .d15, .d16, .d17").animate({
+            opacity: .15
+        }, 500);
+        $(".d12").animate({
+            opacity: 1
+        }, 500);
     });
     
     $(".disney").click(function(){
-        $(".data").css("opacity", ".15");
-        $(".d13").css("opacity", "1");
+        $(".d1, .d2, .d3, .d4, .d5, .d6, .d7, .d8, .d9, .d10, .d11, .d12, .d14, .d15, .d16, .d17").animate({
+            opacity: .15
+        }, 500);
+        $(".d13").animate({
+            opacity: 1
+        }, 500);
     });
     
     $(".original").click(function(){
-        $(".data").css("opacity", ".15");
-        $(".d14").css("opacity", "1");
+        $(".d1, .d2, .d3, .d4, .d5, .d6, .d7, .d8, .d9, .d10, .d11, .d12, .d13, .d15, .d16, .d17").animate({
+            opacity: .15
+        }, 500);
+        $(".d14").animate({
+            opacity: 1
+        }, 500);
     });
     
     $(".remake").click(function(){
-        $(".data").css("opacity", ".15");
-        $(".d15").css("opacity", "1");
+        $(".d1, .d2, .d3, .d4, .d5, .d6, .d7, .d8, .d9, .d10, .d11, .d12, .d13, .d14, .d16, .d17").animate({
+            opacity: .15
+        }, 500);
+        $(".d15").animate({
+            opacity: 1
+        }, 500);
     });
     
     $(".spinoff").click(function(){
-        $(".data").css("opacity", ".15");
-        $(".d16").css("opacity", "1");
+        $(".d1, .d2, .d3, .d4, .d5, .d6, .d7, .d8, .d9, .d10, .d11, .d12, .d13, .d14, .d15, .d17").animate({
+            opacity: .15
+        }, 500);
+        $(".d16").animate({
+            opacity: 1
+        }, 500);
     });
     
     $(".legend").click(function(){
-        $(".data").css("opacity", ".15");
-        $(".d17").css("opacity", "1");
+        $(".d1, .d2, .d3, .d4, .d5, .d6, .d7, .d8, .d9, .d10, .d11, .d12, .d13, .d14, .d15, .d16").animate({
+            opacity: .15
+        }, 500);
+        $(".d17").animate({
+            opacity: 1
+        }, 500);
     });
 }
